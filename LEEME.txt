@@ -1,0 +1,23 @@
+ANUARIO ESCOLAR DIGITAL — PROMOCIÓN 2026
+
+Archivos:
+- index.html: abre el anuario en el navegador.
+- style.css: diseño verde y dorado.
+- script.js: las 30 fichas, textos y funciones de edición.
+- plantilla.png: fondo original de las plantillas.
+- escudo.png: escudo de la portada.
+
+Uso:
+1. Extrae todos los archivos de este ZIP en una misma carpeta.
+2. Abre index.html en Chrome, Edge o Firefox.
+3. Usa Anterior/Siguiente o el selector para cambiar de página.
+4. En cada página puedes cambiar, borrar, subir, arrastrar y ajustar la foto.
+5. Puedes cambiar o insertar la firma; editar textos y añadir/quitar líneas.
+6. Pulsa Guardar cambios para guardar en ese navegador.
+7. Pulsa Descargar libro HTML para exportar una copia con los cambios.
+
+Fotos y firmas:
+Las imágenes se enlazan a los archivos de Google Drive indicados en la hoja de respuestas. Para que se vean, esos archivos deben estar compartidos con permiso de visualización para la cuenta/navegador que abre el anuario. La primera respuesta (Heilyn Yireth Sánchez Dussan) no trae un enlace de firma digitalizada en la hoja; su espacio de firma queda disponible para insertarla manualmente.
+
+Selección de 30 páginas:
+Se usaron los 30 nombres de estudiantes únicos. Se tomó una sola respuesta de Zaidy Liceth Cuellar Caviedes porque aparece duplicada. No se incluyó a Johan Sebastian Masmelas Vega porque en otra respuesta aparece identificado como profesor.
